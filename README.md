@@ -17,9 +17,9 @@ This project predicts whether a loan application will be approved using machine 
 - Matplotlib
 
 ## Repository Contents
-- 📄 Project Paper (PDF)
-- 💻 Source Code (to be added)
-- 📊 Dataset (to be added)
+ Project Paper (PDF)
+ Source Code (to be added)
+ Dataset (to be added)
 
 ## Author
 Pavan Kumar V
